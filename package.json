@@ -1,0 +1,1 @@
+{"name":"node-project","version":"1.0.0","description":"Node.js application","main":"index.js","scripts":{"start":"node index.js"},"engines":{"node":">=20"},"dependencies":{"instagram-private-api":"^1.46.1","instatouch":"^2.3.22"}}
